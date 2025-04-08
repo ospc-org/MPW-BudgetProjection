@@ -4,8 +4,8 @@ rm(list = ls())
 
 # Host on server ?
 library(rsconnect)
-rsconnect::deployApp('mpw_dashboard')
+rsconnect::deployApp('Do')
 
 # Run locally
 library(shiny)
-runApp('mpw_dashboard')
+runApp('Do')
