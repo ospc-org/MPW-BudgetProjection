@@ -27,6 +27,6 @@ Ultimately, this dashboard serves as a tool for interested parties to see how va
 - **ui.R** - shiny UI for dashboard
 
 ### data
-- **data/CBO_2023_Projections_cleaned.xlsx** - CBO demographic projections from 2022 through 2096
-- **data/hc_spending_estimates.xlsx** - per capita HC spending matrix by source of funds, sex, and age group
-- **data/lf_proj_cbo.xlsx** - annual labor force participation rates, as projected by CBO
+- **data/CBO_2025_Projections_cleaned.xlsx** - CBO demographic projections from 2023 through 2096
+- **data/hc_spending_estimates_2023.xlsx** - per capita HC spending matrix by source of funds, sex, and age group
+- **data/lf_proj_cbo_2023.xlsx** - annual labor force participation rates, as projected by CBO
